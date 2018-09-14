@@ -1,2 +1,2 @@
-study
+
 # java-weather-telegrambot
